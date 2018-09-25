@@ -19,7 +19,7 @@ def divide_by_three(v1):
 	"""
 
 	p = v1/3
-	print(p)
+	return p
 
 
 if __name__ == "__main__":
